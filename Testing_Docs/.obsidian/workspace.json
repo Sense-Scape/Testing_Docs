@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "449039260f9e12b3",
+        "id": "e86c1e7defe47a17",
         "type": "tabs",
         "children": [
           {
-            "id": "fd31a7d341f5c575",
+            "id": "bcba0209300b5182",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RPI_Tests/Test Plan and Record - 001.md",
-                "mode": "source",
-                "source": false
+                "file": "RPI_Tests/Test Results.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 46.570409832317445,
+                  "zoom": -0.15071245352427162
+                }
               }
             }
           }
@@ -146,9 +149,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd31a7d341f5c575",
+  "active": "bcba0209300b5182",
   "lastOpenFiles": [
     "RPI_Tests/Test Plan and Record - 001.md",
+    "RPI_Tests/Test Results.canvas",
+    "RPI_Tests/Test Results.canvas",
+    "RPI_Tests/Images/001/Spectrogram2000Hz.png",
+    "RPI_Tests/Images/001",
+    "RPI_Tests/Images/001/SpectrogramAmbientEnv.png",
+    "Pasted image 20240103093710.png",
+    "RPI_Tests/Images",
     "Untitled 1.md",
     "RPI_Tests"
   ]
