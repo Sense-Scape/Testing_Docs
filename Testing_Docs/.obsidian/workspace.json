@@ -11,14 +11,11 @@
             "id": "bcba0209300b5182",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RPI_Tests/Test Results.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 46.570409832317445,
-                  "zoom": -0.15071245352427162
-                }
+                "file": "RPI_Tests/Test Plan and Record - 001.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -151,9 +148,8 @@
   },
   "active": "bcba0209300b5182",
   "lastOpenFiles": [
+    "RPI_Tests/Test Results.canvas",
     "RPI_Tests/Test Plan and Record - 001.md",
-    "RPI_Tests/Test Results.canvas",
-    "RPI_Tests/Test Results.canvas",
     "RPI_Tests/Images/001/Spectrogram2000Hz.png",
     "RPI_Tests/Images/001",
     "RPI_Tests/Images/001/SpectrogramAmbientEnv.png",
