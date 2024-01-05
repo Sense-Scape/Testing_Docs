@@ -11,11 +11,14 @@
             "id": "bcba0209300b5182",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RPI_Tests/Test Plan and Record - 002.md",
-                "mode": "source",
-                "source": false
+                "file": "RPI_Tests/Test Results.canvas",
+                "viewState": {
+                  "x": -106.97559280340235,
+                  "y": 16.902742742325913,
+                  "zoom": -0.330658463537693
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"RPI_Tests/Images/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,12 +150,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcba0209300b5182",
+  "active": "a87085639037ef7d",
   "lastOpenFiles": [
+    "RPI_Tests/Test Plan and Record - 002.md",
+    "RPI_Tests/Images/002/TimeFrequencyPLot.png",
     "RPI_Tests/Images/002/PhaseAnalysis.png",
     "RPI_Tests/Images/002/PhaseAnalysis",
     "RPI_Tests/Test Plan and Record - 001.md",
-    "RPI_Tests/Test Plan and Record - 002.md",
     "RPI_Tests/Images/002",
     "RPI_Tests/Test Results.canvas",
     "RPI_Tests/Images/001/Spectrogram2000Hz.png",

@@ -58,13 +58,15 @@ Date: 2024/01/02
 - None to think of
 
 ----
-## Notable Results
+## Notable Results![[TimeFrequencyPLot.png]]
+
 
 ![[PhaseAnalysis.png]]
 ----
 ## Conclusion
 
 - Looks like there is constantish phase between two channels
+- I think the phase noise is a result of the time domain saturation - the creepy (automated pool cleaner) was operating with constant thuds
 
 
 
